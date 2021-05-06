@@ -67,6 +67,23 @@ Implemented Cucumber Built-In report which could be found under
 ```bash
 /target/cucumber-reports/index.html
 ```
+
+Sample Reports
+
+* Console Output
+
+![Console Output for Scenario 1](reportImages/scenario1.jpg?raw=true "Scenario 1")
+
+![Console Output for Scenario 2](reportImages/scenario2.jpg?raw=true "Scenario 2")
+
+* HTML Output - Success 
+
+![HTML Output Success](reportImages/htmlOutputSuccess.jpg?raw=true "HTML Output Success")
+
+* HTML Output - Negative/Failure
+
+![HTML Output Failure/Negative](reportImages/htmlOutputFailure.jpg?raw=true "HTML Output Failure/Negative")
+
 # Further Improvements
 
 Reports could be improved leveraging Extent or Allure.
